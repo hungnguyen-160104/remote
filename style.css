@@ -1,0 +1,6 @@
+progress[value]::-webkit-progress-bar {
+        background-color: red;
+    }
+    ::-moz-progress-bar {
+        background-color: red;
+    }
